@@ -12,10 +12,8 @@
         ./ooosssso++osssssso+`           GPU: MAUI / WPF / ASP.NET
        .oossssso-````/ossssss+`          Terminal: kitty 0.44.0
       -osssssso.      :ssssssso.         Terminal Font: JetBrainsMonoNF-Regular (11pt)
-     :osssssss/        osssso+++.        CPU: AMD Ryzen 7 7700 (16) @ 5.39 GHz
-    /ossssssss/        +ssssooo/-        [###############-----------] 65% Coffee
-  `/ossssso+/:-        -:/+osssso+-      [##########################] 100% Code
-
+     :osssssss/        osssso+++.        [##########################] 100% Code
+    `/ossssssss/        +ssssooo/-`      [###############-----------] 65% Coffee
 
 > I graduated from university with a degree in **"Integrated Sensor Systems"**, which gave me fundamental technical knowledge. I actively participated in Olympiads in Informatics, Physics, and Mathematics, developing strong logical and analytical thinking. Currently, I have **over 2+ years of commercial development experience** and am constantly improving my skills by following the latest trends and best practices.
 
