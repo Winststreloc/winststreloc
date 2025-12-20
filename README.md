@@ -1,1 +1,72 @@
-# profile
+# [arseny@arch-pc ~]$ neofetch
+                  -`                     winst@archlinux
+                 .o+`                    ---------------
+                `ooo/                    OS: Arch Linux x86_64
+               `+oooo:                   Kernel: .NET 10.0 (LTS)
+              `+oooooo:                  Uptime: 2+ years commercial exp
+              -+oooooo+:                 Shell: zsh (interactive)
+            `/:-:++oooo+:                CPU: AMD Ryzen 7 7700 (16) @ 5.39 GHz
+           `/++++/+++++++:               Editor: JetBrains Rider / DataGrip
+          `/++++++++++++++:              CPU: C# (.NET Core / Framework)
+         `/+++ooooooooooooo/`            WM: Hyprland 0.52.2 (Wayland)
+        ./ooosssso++osssssso+`           GPU: MAUI / WPF / ASP.NET
+       .oossssso-````/ossssss+`          Terminal: kitty 0.44.0
+      -osssssso.      :ssssssso.         Terminal Font: JetBrainsMonoNF-Regular (11pt)
+     :osssssss/        osssso+++.        CPU: AMD Ryzen 7 7700 (16) @ 5.39 GHz
+    /ossssssss/        +ssssooo/-        GPU 1: NVIDIA GeForce RTX 5060 Ti [Discrete]
+  `/ossssso+/:-        -:/+osssso+-      GPU 2: AMD Raphael [Integrated]
+ `+sso+:-`                 `.-/+oso:     Memory: 4.73 GiB / 30.46 GiB (16%)
+`++:.                           `-/+/    Swap: 0 B / 12.00 GiB (0%)
+.`                                 `/    Disk (/): 19.25 GiB / 48.91 GiB (39%) - ext4
+                                         Disk (/home): 27.46 GiB / 181.17 GiB (15%) - ext4
+                                         [###############-----------] 65% Coffee
+                                         [##########################] 100% Code
+
+> I graduated from university with a degree in **"Integrated Sensor Systems"**, which gave me fundamental technical knowledge. I actively participated in Olympiads in Informatics, Physics, and Mathematics, developing strong logical and analytical thinking. Currently, I have **over 2+ years of commercial development experience** and am constantly improving my skills by following the latest trends and best practices.
+
+### [arseny@arch-pc ~]$ journalctl -u commercial-experience --reverse
+
+*   **Software Developer** | *SportData* | (Nov 2024 - Present)
+    - Developing a high-performance VPN application for the Windows platform.
+*   **C#/.NET Developer** | *AutoStrong-M* | (Dec 2023 - Nov 2024)
+    - Developed a **MAUI mobile application** for warehouse item management and logistics.
+    - Implemented a personalized discount system for users.
+    - Created a multiplier system for price list exports to marketplaces.
+    - Tech: `C#`, `WPF`, `DevExpress`, `MSSQL`, `MAUI`, `EF Core`, `Mapper`, `RabbitMQ`.
+*   **Full-Stack Developer** | *Orange Process* | (Mar 2023 - Sep 2023)
+    - Developed integration solutions for the Terrasoft CRM platform.
+    - Tech: `MSSQL`, `C# (ASP.NET)`, `JavaScript (jQuery)`, `CSS`.
+
+### [arseny@arch-pc ~]$ pacman -Q --skills
+
+*   **Languages:** `C#`, `SQL`, `JavaScript`, `HTML/CSS`
+*   **Technologies:** `.NET Core/Framework`, `ASP.NET (Web API)`, `Entity Framework`, `MAUI`, `WPF`
+*   **Libraries:** `DevExpress (Controls & Export)`, `LINQ`, `Dapper`, `Mapper`, `RabbitMQ`
+*   **Databases:** `MS SQL Server (Management Studio)`, `PostgreSQL`, `MongoDB`, `DataGrip`
+*   **Tools:** `JetBrains Rider`, `Visual Studio`, `VS Code`, `GitHub`, `Postman`, `Profiler`, `SnoopWPF`
+*   **DevOps:** `Docker`, `Bitrix`, `Trello`
+
+### [arseny@arch-pc ~]$ yay -S --pet-projects
+
+*   📦 [**CoffeePeek**](https://github.com/CoffeePeek/CoffeePeek-NET) - Full ecosystem for coffee shop management.
+*   📦 [**PCFinder**](https://github.com/Winststreloc/PCFinder) - PC component compatibility and comparison engine.
+*   📦 [**Salates & Olivetes**](https://github.com/Winststreloc/SalatesAndOlivetes) - Web-based project showcase platform.
+
+### [arseny@arch-pc ~]$ pacman -Qi education
+
+*   🎓 **TeachMeSkills (2024)** - C# Developer Course.
+*   🎓 **BNTU (2022)** - Integrated Sensor Systems (Engineering).
+
+### [arseny@arch-pc ~]$ ping -c 3 contacts
+
+*   **Telegram:** [@senya_stefanenko](https://t.me/senya_stefanenko)
+*   **LinkedIn:** [Arseny Stefanenko](https://www.linkedin.com/in/arseny-stefanenko-376b531b5/m/)
+*   **Phone:** `+375 (44) 7095174`
+*   **Portfolio:** [Live Site](https://gateway-dev-1b7e.up.railway.app/)
+
+---
+
+![GitHub Activity](https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%231793D1)
+
+[arseny@arch-pc ~]$ sudo shutdown -h now
+> ```# System going down for maintenance (or more coding)...```
