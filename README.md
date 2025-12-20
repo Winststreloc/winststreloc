@@ -13,14 +13,9 @@
        .oossssso-````/ossssss+`          Terminal: kitty 0.44.0
       -osssssso.      :ssssssso.         Terminal Font: JetBrainsMonoNF-Regular (11pt)
      :osssssss/        osssso+++.        CPU: AMD Ryzen 7 7700 (16) @ 5.39 GHz
-    /ossssssss/        +ssssooo/-        GPU 1: NVIDIA GeForce RTX 5060 Ti [Discrete]
-  `/ossssso+/:-        -:/+osssso+-      GPU 2: AMD Raphael [Integrated]
- `+sso+:-`                 `.-/+oso:     Memory: 4.73 GiB / 30.46 GiB (16%)
-`++:.                           `-/+/    Swap: 0 B / 12.00 GiB (0%)
-.`                                 `/    Disk (/): 19.25 GiB / 48.91 GiB (39%) - ext4
-                                         Disk (/home): 27.46 GiB / 181.17 GiB (15%) - ext4
-                                         [###############-----------] 65% Coffee
-                                         [##########################] 100% Code
+    /ossssssss/        +ssssooo/-        [###############-----------] 65% Coffee
+  `/ossssso+/:-        -:/+osssso+-      [##########################] 100% Code
+
 
 > I graduated from university with a degree in **"Integrated Sensor Systems"**, which gave me fundamental technical knowledge. I actively participated in Olympiads in Informatics, Physics, and Mathematics, developing strong logical and analytical thinking. Currently, I have **over 2+ years of commercial development experience** and am constantly improving my skills by following the latest trends and best practices.
 
