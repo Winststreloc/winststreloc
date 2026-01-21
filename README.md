@@ -20,29 +20,10 @@
 *   **Libraries:** `DevExpress (Controls & Export)`, `LINQ`, `Dapper`, `Mapper`, `RabbitMQ`
 *   **Databases:** `MS SQL Server (Management Studio)`, `PostgreSQL`, `MongoDB`, `DataGrip`
 *   **Tools:** `JetBrains Rider`, `Visual Studio`, `VS Code`, `GitHub`, `Postman`, `Profiler`, `SnoopWPF`
-*   **DevOps:** `Docker`, `Bitrix`, `Trello`
-
-### [arseny@arch-pc ~]$ yay -S --pet-projects
-
-*   📦 [**CoffeePeek**](https://github.com/CoffeePeek/CoffeePeek-NET) - Full ecosystem for coffee shop management.
-*   📦 [**PCFinder**](https://github.com/Winststreloc/PCFinder) - PC component compatibility and comparison engine.
-*   📦 [**Salates & Olivetes**](https://github.com/Winststreloc/SalatesAndOlivetes) - Web-based project showcase platform.
+*   **DevOps** `Docker`, `Railway`, `Github Actions`, `linux`
 
 ### [arseny@arch-pc ~]$ pacman -Qi education
 
 *   🎓 **TeachMeSkills (2024)** - C# Developer Course.
 *   🎓 **BNTU (2022)** - Integrated Sensor Systems (Engineering).
 
-### [arseny@arch-pc ~]$ ping -c 3 contacts
-
-*   **Telegram:** [@senya_stefanenko](https://t.me/senya_stefanenko)
-*   **LinkedIn:** [Arseny Stefanenko](https://www.linkedin.com/in/arseny-stefanenko-376b531b5/m/)
-*   **Phone:** `+375 (44) 7095174`
-*   **Portfolio:** [Live Site](https://gateway-dev-1b7e.up.railway.app/)
-
----
-
-![GitHub Activity](https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%231793D1)
-
-[arseny@arch-pc ~]$ sudo shutdown -h now
-> ```# System going down for maintenance (or more coding)...```
