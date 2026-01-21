@@ -1,29 +1,60 @@
-> I graduated from university with a degree in **"Integrated Sensor Systems"**, which gave me fundamental technical knowledge. I actively participated in Olympiads in Informatics, Physics, and Mathematics, developing strong logical and analytical thinking. Currently, I have **over 2+ years of commercial development experience** and am constantly improving my skills by following the latest trends and best practices.
+# 👨‍💻 Arseny | .NET Software Engineer
 
-### [arseny@arch-pc ~]$ journalctl -u commercial-experience --reverse
+<p align="left">
+<img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-*   **Software Developer** | *SportData* | (Nov 2024 - Present)
-    - Developing a high-performance VPN application for the Windows platform.
-*   **C#/.NET Developer** | *AutoStrong-M* | (Dec 2023 - Nov 2024)
-    - Developed a **MAUI mobile application** for warehouse item management and logistics.
-    - Implemented a personalized discount system for users.
-    - Created a multiplier system for price list exports to marketplaces.
-    - Tech: `C#`, `WPF`, `DevExpress`, `MSSQL`, `MAUI`, `EF Core`, `Mapper`, `RabbitMQ`.
-*   **Full-Stack Developer** | *Orange Process* | (Mar 2023 - Sep 2023)
-    - Developed integration solutions for the Terrasoft CRM platform.
-    - Tech: `MSSQL`, `C# (ASP.NET)`, `JavaScript (jQuery)`, `CSS`.
+---
 
-### [arseny@arch-pc ~]$ pacman -Q --skills
+### 👤 Обо мне
 
-*   **Languages:** `C#`, `SQL`, `JavaScript`, `HTML/CSS`
-*   **Technologies:** `.NET Core/Framework`, `ASP.NET (Web API)`, `Entity Framework`, `MAUI`, `WPF`
-*   **Libraries:** `DevExpress (Controls & Export)`, `LINQ`, `Dapper`, `Mapper`, `RabbitMQ`
-*   **Databases:** `MS SQL Server (Management Studio)`, `PostgreSQL`, `MongoDB`, `DataGrip`
-*   **Tools:** `JetBrains Rider`, `Visual Studio`, `VS Code`, `GitHub`, `Postman`, `Profiler`, `SnoopWPF`
-*   **DevOps** `Docker`, `Railway`, `Github Actions`, `linux`
+ I graduated from university with a degree in **"Integrated Sensor Systems"**, which gave me fundamental technical knowledge. I actively participated in Olympiads in Informatics, Physics, and Mathematics, developing strong logical and analytical thinking. Currently, I have **over 2+ years of commercial development experience** and am constantly improving my skills by following the latest trends and best practices. 
+---
 
-### [arseny@arch-pc ~]$ pacman -Qi education
+### 🛠 Стек технологий
 
-*   🎓 **TeachMeSkills (2024)** - C# Developer Course.
-*   🎓 **BNTU (2022)** - Integrated Sensor Systems (Engineering).
+| Сфера | Технологии |
+| :--- | :--- |
+| **Backend** | `.NET 10/Core`, `ASP.NET Web API`, `Entity Framework`, `Dapper`, `LINQ`, `RabbitMQ` |
+| **Desktop / Mobile** | `WPF`, `MAUI`, `DevExpress Controls` |
+| **Databases** | `MS SQL Server`, `PostgreSQL`, `MongoDB` |
+| **Tools & DevOps** | `Docker`, `Git`, `GitHub Actions`, `Postman`, `Rider`, `SnoopWPF` |
 
+---
+
+### 💼 Опыт работы
+
+#### **Software Developer** — *SportData*
+> **Ноябрь 2024 — Настоящее время**
+* Разработка и поддержка высокопроизводительного VPN-приложения (Windows).
+* Работа с системными вызовами и оптимизация сетевого трафика.
+
+#### **C#/.NET Developer** — *AutoStrong-M*
+> **Декабрь 2023 — Ноябрь 2024**
+* **Logistics App:** Разработка мобильного приложения на **MAUI** для управления складскими процессами.
+* **Pricing System:** Реализация системы множителей для автоматизированного экспорта прайсов на маркетплейсы.
+* **Business Logic:** Создание системы персональных дисконтов и лояльности.
+* *Stack:* `C#`, `WPF`, `DevExpress`, `MSSQL`, `MAUI`, `RabbitMQ`.
+
+#### **Full-Stack Developer** — *Orange Process*
+> **Март 2023 — Сентябрь 2023**
+* Создание интеграционных решений для платформы **Terrasoft CRM**.
+* *Stack:* `C# (ASP.NET)`, `MS SQL`, `JavaScript (jQuery)`.
+
+---
+
+### 📊 Статистика профиля
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=winststreloc&show_icons=true&theme=react&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winststreloc&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+### 🎓 Образование
+* **BNTU (2022)** — Инженер (Интегральные сенсорные системы).
+* **TeachMeSkills (2024)** — Курс "C# Developer".
