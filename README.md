@@ -1,20 +1,3 @@
-# [arseny@arch-pc ~]$ neofetch
-                  -`                     winst@archlinux
-                 .o+`                    ---------------
-                `ooo/                    OS: Arch Linux x86_64
-               `+oooo:                   Kernel: .NET 10.0 (LTS)
-              `+oooooo:                  Uptime: 2+ years commercial exp
-              -+oooooo+:                 Shell: zsh (interactive)
-            `/:-:++oooo+:                CPU: AMD Ryzen 7 7700 (16) @ 5.39 GHz
-           `/++++/+++++++:               Editor: JetBrains Rider / DataGrip
-          `/++++++++++++++:              CPU: C# (.NET Core / Framework)
-         `/+++ooooooooooooo/`            WM: Hyprland 0.52.2 (Wayland)
-        ./ooosssso++osssssso+`           GPU: MAUI / WPF / ASP.NET
-       .oossssso-````/ossssss+`          Terminal: kitty 0.44.0
-      -osssssso.      :ssssssso.         Terminal Font: JetBrainsMonoNF-Regular (11pt)
-     :osssssss/        osssso+++.        [##########################] 100% Code
-    `/ossssssss/        +ssssooo/-`      [###############-----------] 65% Coffee
-
 > I graduated from university with a degree in **"Integrated Sensor Systems"**, which gave me fundamental technical knowledge. I actively participated in Olympiads in Informatics, Physics, and Mathematics, developing strong logical and analytical thinking. Currently, I have **over 2+ years of commercial development experience** and am constantly improving my skills by following the latest trends and best practices.
 
 ### [arseny@arch-pc ~]$ journalctl -u commercial-experience --reverse
