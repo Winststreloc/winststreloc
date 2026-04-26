@@ -12,16 +12,16 @@
 
 | Sphere | Technology |
 | :--- | :--- |
-| **Backend** | `.NET 10/Core`, `ASP.NET Web API`, `Entity Framework`, `LINQ`, `RabbitMQ` |
-| **Desktop / Mobile** | `WPF`, `MAUI`, `DevExpress Controls` |
-| **Databases** | `MS SQL Server`, `PostgreSQL`, `MongoDB` |
-| **Tools & DevOps** | `Docker`, `Git`, `GitHub Actions`, `Postman`, `Rider`, `SnoopWPF` |
+| **Backend** | `.NET 10/Core`, `ASP.NET Web API`, `Entity Framework`, `LINQ`, `RabbitMQ`, `Wolverine` |
+| **Desktop / Mobile** | `WPF`, `Avalonia UI`, `MAUI`, `DevExpress Controls` |
+| **Databases** | `MS SQL Server`, `PostgreSQL`, `MongoDB`, `Redis` |
+| **Tools & DevOps** | `Docker`, `Railway`, `Git`, `GitHub Actions`, `Postman`, `Rider`, `SnoopWPF` |
 
 ---
 
 ### 💼 Experience 
 
-*   **Software Developer** | *SportData* | (Nov 2024 - Present)
+*   **Middle Software Developer (Desktop)** | *SportData* | (Nov 2024 - Present)
     - Developing a high-performance VPN application for the Windows platform.
 *   **C#/.NET Developer** | *AutoStrong-M* | (Dec 2023 - Nov 2024)
     - Developed a **MAUI mobile application** for warehouse item management and logistics.
